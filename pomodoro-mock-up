@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-06T14:49:08.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.115 Safari/537.36" etag="C3uIUu2Rzc4hs7Jtuq_l" version="14.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-06T14:53:33.091Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.115 Safari/537.36" etag="KDTSbeWsfoHFrQwMQpa2" version="14.9.4" type="github">
   <diagram id="7AN0rUD_6wUFxoIdhMx4" name="Page-1">
     <mxGraphModel dx="1426" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,8 +19,17 @@
         <mxCell id="1Jxk6fV7YY1tgheLMg8F-26" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="1Jxk6fV7YY1tgheLMg8F-24">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1Jxk6fV7YY1tgheLMg8F-27" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 24px&quot;&gt;25:00&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1Jxk6fV7YY1tgheLMg8F-24">
-          <mxGeometry x="290" y="210" width="150" height="50" as="geometry" />
+        <mxCell id="1Jxk6fV7YY1tgheLMg8F-27" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 24px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;25:00&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=" vertex="1" parent="1Jxk6fV7YY1tgheLMg8F-24">
+          <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jxk6fV7YY1tgheLMg8F-28" value="Start" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#82b366;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#d5e8d4;whiteSpace=wrap;" vertex="1" parent="1Jxk6fV7YY1tgheLMg8F-24">
+          <mxGeometry x="190" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jxk6fV7YY1tgheLMg8F-29" value="Pause" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#b85450;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#f8cecc;whiteSpace=wrap;" vertex="1" parent="1Jxk6fV7YY1tgheLMg8F-24">
+          <mxGeometry x="300" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jxk6fV7YY1tgheLMg8F-30" value="Reset" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#d6b656;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#fff2cc;whiteSpace=wrap;" vertex="1" parent="1Jxk6fV7YY1tgheLMg8F-24">
+          <mxGeometry x="410" y="290" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
