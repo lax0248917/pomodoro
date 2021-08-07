@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+    <link rel="stylesheet" href="styles/index.css" />
+    <title>Pomodoro</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col s8 offset-s2">
+          <div class="card-panel red lighten-3">
+            <h1>Pomodoro</h1>
+            <div id="pomo-timer" class="card-panel purple lighten-3">
+              <input
+                type="text"
+                class="grey lighten-1"
+                id="timer-input"
+                value="10"
+              />
+            </div>
+            <div id="btn-div">
+              <a
+                class="waves-effect waves-light btn teal lighten-2"
+                id="btn-start"
+                >Start</a
+              >
+              <a
+                class="waves-effect waves-light btn red lighten-2"
+                id="btn-pause"
+                >Pause</a
+              >
+              <a
+                class="waves-effect waves-light btn blue lighten-2"
+                id="btn-reset"
+                >Reset</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="./src/index.js"></script>
+  </body>
+</html>
